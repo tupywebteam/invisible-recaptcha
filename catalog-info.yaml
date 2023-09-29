@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: invisible-recaptcha
+  annotations:
+    github.com/project-slug: tupywebteam/invisible-recaptcha
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
